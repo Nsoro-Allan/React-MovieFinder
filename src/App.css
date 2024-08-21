@@ -17,6 +17,11 @@ body {
   background-color: #212426;
 }
 
+.icon{
+  width: 40px;
+  height: 40px;
+}
+
 .app {
   padding: 4rem;
 
